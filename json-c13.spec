@@ -5,7 +5,7 @@
 
 Name:		json-c13
 Version:	0.13.1
-Release:	1%{?dist}
+Release:	2%{?dist}
 Summary:	JSON implementation in C (0.13 compatibility package)
 
 License:	MIT
@@ -136,6 +136,9 @@ end
 
 
 %changelog
+* Mon Aug  8 2022 Jeffrey Lau <jeffrey.lau@ribose.com> - 0.13.1-2
+- Re-sign package
+
 * Sun Jun 18 2017 Ronald Tse <ronald.tse@ribose.com> - 0.13.1-1
 - Version bump to 0.13.1
 
